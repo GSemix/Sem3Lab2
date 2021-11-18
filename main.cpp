@@ -1,5 +1,6 @@
 #include <iostream>
 #include "nefroida.h"
+#include "lab_2.h"
 
 #define PI 3.14159265
 
